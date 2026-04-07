@@ -3,7 +3,8 @@
 Este é um projeto de **CRUD (Create, Read, Update, Delete)** desenvolvido para o curso de **Análise e Desenvolvimento de Sistemas (ADS)**. O foco do sistema é o gerenciamento e a negociação de animais em uma fazenda, abrangendo aves, bovinos e suínos.
 
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Java 17
+* **Linguagem:** Java 25
+
 * **Framework:** Spring Boot 3
 * **Banco de Dados:** PostgreSQL
 * **Ferramenta de Testes:** Insomnia
